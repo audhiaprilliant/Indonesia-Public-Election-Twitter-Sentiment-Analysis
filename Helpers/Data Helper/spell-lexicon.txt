@@ -1,0 +1,18 @@
+spell	word
+sdh	sudah
+byr	bayar
+ga	tidak
+blm	belum
+yg	yang
+dgn	dengan
+pake	pakai
+skrg	sekarang
+tgl	tanggal
+utk	untuk
+aj	saja
+aja	saja
+tetep	tetap
+pengen	ingin
+tdk	tidak
+kalo	kalau
+
