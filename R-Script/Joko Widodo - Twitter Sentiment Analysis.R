@@ -12,12 +12,12 @@ library(wordcloud)
 library(ggplot2)
 
 # ===== CRAWLING DTA FROM TWITTER
-api_key = 'egBd51VlrTQBjnaB7NDoHyYh4'
-api_secret = 'VpRroVMQNWAArgjwfvyHQnWWLSxARm0xZQYzeNLlSHywJwRH8b'
-access_token = '301857967-cmVncPoVHHabd8bURGbsg4yqFao4GhTvTKqt0elW'
-access_token_secret = 'l2lJM8t30CwNiAFyUY6ltL7rh1SUjyz1wYeD6pF287Oog'
+api_key = 'egBd5XXXXXXXXXXXX'
+api_secret = 'VpRroVMQNWAAXXXXXXXXXXXXXXXXXXXXXX'
+access_token = '301857967-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret = 'l2lJM8t30XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)
-data.jokowi = searchTwitter(searchString = 'Pocong',
+data.jokowi = searchTwitter(searchString = 'Joko Widodo',
                             n = 1000,
                             lang = 'id')
 # ===== CONVERT DATA TO DATA FRAME
