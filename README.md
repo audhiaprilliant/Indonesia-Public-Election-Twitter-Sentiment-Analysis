@@ -6,6 +6,7 @@ spesifikasi sebagai berikut:
 - Prosesor AMD A8 – 7410
 - Memory 4GB
 - VGA Radeon (TM) R5 Graphics  
+  
 Perangkat lunak yang digunakan dalam penelitian ini adalah sebagai berikut:
 - Sistem operasi Microsoft Windows Pro 10 (64-bit) dan Ubuntu Bionic Breaver
 - Bahasa pemograman R dengan packages twitteR, tm, dplyr, stringr, katadasaR, wordcloud, dan ggplot2
