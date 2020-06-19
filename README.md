@@ -1,18 +1,17 @@
 ## Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 Mellui Platform Twitter dengan Naive Bayes
 
 ### Lingkungan Pengembangan
-Perangkat keras yang digunakan dalam penelitian ini adalah komputer personal dengan
-spesifikasi sebagai berikut:
+In this research, author used personal computer or laptop with hardwares spesification described below:
 - Prosesor AMD A8 – 7410
 - Memory 4GB
 - VGA Radeon (TM) R5 Graphics  
   
-Perangkat lunak yang digunakan dalam penelitian ini adalah sebagai berikut:
-- Sistem operasi Microsoft Windows Pro 10 (64-bit) dan Ubuntu Bionic Breaver
-- Bahasa pemograman R dengan packages twitteR, tm, dplyr, stringr, katadasaR, wordcloud, dan ggplot2
-- Microsoft Excel 2016 sebagai media pengolah data tambahan, media penggabungan data, dan transformasi data
+And several softwares:
+- Operating system Microsoft Windows Pro 10 (64-bit) and Ubuntu Bionic Breaver
+- R with packages twitteR, tm, dplyr, stringr, katadasaR, wordcloud, and ggplot2
+- Microsoft Excel 2016 as tools for data editor, data merging, and data transforming
 
-### Diagram Alir Sederhana Penelitian
-Tahapan yang dilakukan pada penelitian mengenai Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 melalui Platform Twitter terdiri atas data crawling, data pre-processing (cleaning, case folding, data normalization, tokenizing, filtering, dan stemming), pembobotan kata menggunakan algoritma yang didapatkan dari e-Commerce tokopedia, dan melakukan visualisasi hasil analisis sentimen melalui wordcloud dan grafik lainnya yang menunjang. Secara sistematis, alur dari tahapan-tahapan kegiatan pada penelitian dapat dilihat pada gambar di bawah:
+### Flowchart
+Steps in this research entitled *Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 melalui Platform Twitter* consists of data crawling, data pre-processing (cleansing, case folding, tokenizing, data normalization, filtering, and stemming), term weighting using TF-IDF, sentiment mining using Indonesian's corpora, and data visualization for sentiment (negative and positive) using wordcloud and graphs. Systematically, steps of the whole research can be shown in Figure 1 below:
 
 <img src='img/Screenshot from 2020-06-04 00-33-58.png' alt='uptodate' class='center'>
