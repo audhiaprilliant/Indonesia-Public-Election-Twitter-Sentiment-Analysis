@@ -1,6 +1,6 @@
 ## Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 Mellui Platform Twitter dengan Naive Bayes
 
-### Lingkungan Pengembangan
+### Enviromental Development
 In this research, author used personal computer or laptop with hardwares spesification described below:
 - Prosesor AMD A8 – 7410
 - Memory 4GB
