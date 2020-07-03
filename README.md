@@ -2,7 +2,7 @@
 
 ### Enviromental Development
 In this research, author used personal computer or laptop with hardwares spesification described below:
-- Prosesor AMD A8 – 7410
+- Processor AMD A8 – 7410
 - Memory 4GB
 - VGA Radeon (TM) R5 Graphics  
   
