@@ -12,6 +12,6 @@ And several softwares:
 - Microsoft Excel 2016 as tools for data editor, data merging, and data transforming
 
 ### Flowchart
-Steps in this research entitled *Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 melalui Platform Twitter* consists of data crawling, data pre-processing (cleansing, case folding, tokenizing, data normalization, filtering, and stemming), term weighting using TF-IDF, sentiment mining using Indonesian's corpora, and data visualization for sentiment (negative and positive) using wordcloud and graphs. Systematically, steps of the whole research can be shown in Figure 1 below:
+Steps in this research entitled *Analisis Sentimen Pasca Pemilihan Umum (PEMILU) Indonesia Tahun 2019 melalui Platform Twitter* consists of data crawling, data pre-processing (cleansing, case folding, tokenizing, data normalization, filtering, and stemming), term weighting using TF-IDF, sentiment mining using Indonesian's corpora, and data visualization for sentiment (negative and positive) using wordcloud and graphs. Systematically, steps of the whole research is displayed in Figure 1:
 
 <img src='img/Screenshot from 2020-06-04 00-33-58.png' alt='uptodate' class='center'>
